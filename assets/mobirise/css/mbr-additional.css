@@ -1416,12 +1416,12 @@ body {
 }
 .cid-qTkzRZLJNu .navbar {
   padding: .5rem 0;
-  background: #333333;
+  background: #232323;
   transition: none;
   min-height: 77px;
 }
 .cid-qTkzRZLJNu .navbar-dropdown.bg-color.transparent.opened {
-  background: #333333;
+  background: #232323;
 }
 .cid-qTkzRZLJNu a {
   font-style: normal;
@@ -1505,7 +1505,7 @@ body {
   padding-bottom: 0;
 }
 .cid-qTkzRZLJNu .dropdown .dropdown-menu {
-  background: #333333;
+  background: #232323;
   display: none;
   position: absolute;
   min-width: 5rem;
@@ -1641,10 +1641,6 @@ body {
 .cid-qTkzRZLJNu .collapsed .navbar-collapse.show .navbar-nav .nav-item {
   clear: both;
 }
-.cid-qTkzRZLJNu .collapsed .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
-.cid-qTkzRZLJNu .collapsed .navbar-collapse.show .navbar-nav .nav-item:last-child {
-  margin-bottom: 1rem;
-}
 .cid-qTkzRZLJNu .collapsed .navbar-collapse.collapsing .navbar-buttons,
 .cid-qTkzRZLJNu .collapsed .navbar-collapse.show .navbar-buttons {
   text-align: center;
@@ -1739,10 +1735,6 @@ body {
   .cid-qTkzRZLJNu .navbar-collapse.show .navbar-nav .nav-item {
     clear: both;
   }
-  .cid-qTkzRZLJNu .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
-  .cid-qTkzRZLJNu .navbar-collapse.show .navbar-nav .nav-item:last-child {
-    margin-bottom: 1rem;
-  }
   .cid-qTkzRZLJNu .navbar-collapse.collapsing .navbar-buttons,
   .cid-qTkzRZLJNu .navbar-collapse.show .navbar-buttons {
     text-align: center;
@@ -1805,4 +1797,80 @@ body {
 }
 .cid-qTkA127IK8 {
   background-color: #0f7699;
+}
+.cid-rBJ4IjPSee {
+  padding-top: 45px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-rBJ4IjPSee h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+  padding-top: 2rem;
+}
+.cid-rBJ4IjPSee p {
+  margin-bottom: 0;
+  text-align: left;
+  padding-top: 1.5rem;
+}
+.cid-rBJ4IjPSee .mbr-section-btn {
+  padding-top: 2.5rem;
+}
+.cid-rBJ4IjPSee .mbr-section-btn a {
+  margin: 0;
+}
+.cid-rBJ4IjPSee .mbr-text {
+  color: #767676;
+}
+.cid-rBJ4IjPSee .card-wrapper {
+  height: 100%;
+}
+@media (max-width: 767px) {
+  .cid-rBJ4IjPSee .card:not(.last-child) {
+    padding-bottom: 2rem;
+  }
+}
+.cid-rBJ4IjPSee H2 {
+  text-align: left;
+}
+.cid-rBJJqmrvNt {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+.cid-rBJJqmrvNt .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-rBJJqmrvNt .media-row {
+  display: -webkit-flex;
+  justify-content: center;
+  -webkit-justify-content: center;
+}
+.cid-rBJJqmrvNt .team-item {
+  transition: all .2s;
+  margin-bottom: 2rem;
+}
+.cid-rBJJqmrvNt .team-item .item-image img {
+  width: 100%;
+}
+.cid-rBJJqmrvNt .team-item .item-name p {
+  margin-bottom: 0;
+}
+.cid-rBJJqmrvNt .team-item .item-role p {
+  margin-bottom: 0;
+}
+.cid-rBJJqmrvNt .team-item .item-social {
+  display: -webkit-flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  -webkit-flex-wrap: wrap;
+  -webkit-justify-content: center;
+}
+.cid-rBJJqmrvNt .team-item .item-social .socicon {
+  color: #232323;
+  font-size: 17px;
+}
+.cid-rBJJqmrvNt .team-item .item-caption {
+  background: #efefef;
 }
